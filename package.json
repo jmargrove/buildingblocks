@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "https://github.com/t03jam8/buildingblocks.git",
   "author": "t03jam8 <grovejam@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "react": "^16.7.0"
+  }
 }
