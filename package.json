@@ -7,5 +7,11 @@
   "license": "MIT",
   "dependencies": {
     "react": "^16.7.0"
+  },
+  "scripts": {
+    "start": "trc -w app.ts & lite-server"
+  },
+  "devDependencies": {
+    "lite-server": "^2.4.0"
   }
 }
